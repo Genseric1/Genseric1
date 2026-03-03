@@ -55,18 +55,3 @@ Data Analysis     ████████████████████�
 Machine Learning  ████████████░░░░░░░░░░   55%
 ETL Pipelines     ██████████████████░░░░   75%
 Docker / DevOps   ████████░░░░░░░░░░░░░░   40%
-
-
-
-
-
-
-
-
-
-
-
-📈 Statistiques GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Genseric1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genseric1&layout=compact&theme=tokyonight&hide_border=true" alt="Langages" height="165" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Genseric1&theme=tokyonight&hide_border=true" alt="Streak" /> </p>
-<p align="center"> <em>"Quand la data rencontre l'agriculture, l'Afrique nourrit le monde."</em> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Genseric1&color=brightgreen&style=flat-square" alt="Profile views" /> </p> ```
